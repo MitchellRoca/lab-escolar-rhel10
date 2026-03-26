@@ -1,0 +1,1 @@
+Se realizó el particionado manual del disco de 20GB siguiendo el estándar UEFI/GPT. Se crearon volúmenes lógicos (LVM) para la raíz y la swap, permitiendo escalabilidad futura. Se asignó la IP estática 192.168.100.10 al nodo srv-admin.
